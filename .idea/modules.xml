@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bigdata-flink-github.iml" filepath="$PROJECT_DIR$/.idea/bigdata-flink-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_to_hive/kafka_to_hive.iml" filepath="$PROJECT_DIR$/kafka_to_hive/kafka_to_hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lraj_realtime_index_scala/lraj_realtime_index_scala.iml" filepath="$PROJECT_DIR$/lraj_realtime_index_scala/lraj_realtime_index_scala.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+package cn.brc.lraj.trackingEvent.bean
+
+case class TrackingEvent(
+                          imei: String,
+                          imsi: String,
+                          phone_wifi_mac: String,
+                          router_mac: String,
+                          device_id: String,
+                          tracking_id: String,
+                          os_version: String,
+                          browser_type: String,
+                          browser_ver: String,
+                          u_uid: String,
+                          mobile_operators_desc: String,
+                          network_desc: String,
+                          device_desc: String,
+                          app_version: String,
+                          app_channel: String,
+                          channel: String,
+                          ip: String,
+                          geo_position: String,
+                          location_province: String,
+                          location_city: String,
+                          location_district: String,
+                          location_address: String,
+                          gmtTime: String,
+                          mac: String,
+                          person_id: String,
+                          appkey: String,
+                          device_language: String,
+                          expandData: String
+                        )
